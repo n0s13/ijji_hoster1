@@ -1,3 +1,4 @@
+---
 deployment:
   tasks:
     - export DEPLOYPATH=/home/u1655188/public_html/dev.lsp-ijji.com/
