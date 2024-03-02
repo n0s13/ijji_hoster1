@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/u1655188/public_html/dev.lsp-ijji.com/
-      /bin/cp -R test3.php $DEPLOYPATH
+    - /bin/cp -R * $DEPLOYPATH
